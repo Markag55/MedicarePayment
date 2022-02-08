@@ -1,0 +1,210 @@
+AAF,Central Bucks High School W,650,520,3.5
+ABH,Conwell-Egan Catholic HS,560,560,3.43
+ACL,Roman Catholic High School,540,610,2.26778626
+ADZ,La Salle College High School,490,540,2.994782609
+AEK,La Salle College High School,500,610,2.98
+AFU,Middletown Area High School,490,460,2.77
+AGR,Father Judge High School,480,500,3.29
+AHA,Agawam High School,660,660,3.943333333
+AIX,Little Flower Cath HS Girls,470,590,2.840672269
+AJG,Christian Brothers Academy,510,650,3.475083333
+AKM,Burrell High School,550,600,3.675657895
+ALV,West Essex Senior High School,500,560,0.87
+AMP,Paul VI High School,710,540,2.54
+ANK,Archbishop Ryan High School,590,630,3.93
+AOQ,Calvert Hall College High Sch,730,690,3.667407407
+APV,Don Bosco Prep High School,720,660,3.38
+AQU,Archbishop Wood High School,650,580,3.88
+ARE,Wm W Bodine H S Int Affair,430,500,0.22
+ASF,Rocky Point Jr-Sr High School,600,550,2.297933884
+ATB,Cardinal Dougherty High Schl,560,660,3.66
+AUF,Archbishop Ryan High School,560,650,3.910740741
+AVD,Cardinal Dougherty High Schl,570,620,3.648699187
+AWR,Northeast Cath High School,450,430,2.67
+AXA,Roman Catholic High School,450,630,2.25275
+AYJ,La Salle College High School,590,550,2.98
+AZW,DeMatha Cath High School Boys,630,650,3.38
+BAY,Philadelphia High School Girls,470,450,2.4
+BBO,Glen Mills Schools,520,640,3.081
+BCS,Immaculata High School,490,480,3.014214876
+BDR,Little Flower Cath HS Girls,570,670,2.84
+BEX,Immaculate Conception H S,540,570,3.010145985
+BFJ,West Phila Cath High School,370,330,0.5
+BGL,Little Flower Cath HS Girls,600,680,2.824269663
+BHS,Lansdale Catholic High School,530,530,2.86
+BIN,Conestoga High School,470,460,3.433448276
+BJZ,Haverford Twp Sr High School,610,620,3.050393701
+BKR,Father Judge High School,520,540,3.28256
+BLB,Merion Mercy Academy,560,520,2.78
+BML,Archbishop Carroll High School,680,710,3.93
+BNJ,West Hempstead Middle-Sr H S,500,490,0.84
+BOH,Christian Brothers Academy,560,700,3.474545455
+BPN,La Salle College High School,430,390,2.98
+BQU,Olney High School,580,540,2.567711864
+BRE,Cardinal Dougherty High Schl,610,620,3.629868421
+BSB,La Salle College High School,490,500,2.95
+BTY,Northeast High School,420,410,2.61
+BUT,Edison-Fareira High School,660,590,3.36
+BVE,St Josephs Preparatory School,730,600,2.09
+BWN,La Salle College High School,770,440,2.933333333
+BXY,Northeast Cath High School,520,580,2.66
+BYO,Housatonic Vly Regl High Sch,600,570,3.039193548
+BZL,Edison-Fareira High School,640,640,3.356299213
+CAA,Father Judge High School,520,500,3.26
+CBC,Little Flower Cath HS Girls,520,540,2.81
+CCE,Northeast High School,460,500,2.605918367
+CDD,Erasmus Hall H S/Acad of Arts,610,660,3.29
+CED,Paul VI High School,600,550,2.5159375
+CFN,Blue Mountain High School,500,550,3.7
+CGH,Franklin Learning Center,490,540,3.09
+CHX,La Salle College High School,480,530,2.93
+CIR,Philadelphia High School Girls,490,460,2.39
+CJW,St Josephs Preparatory School,440,590,2.047416667
+CKM,Pennridge High School,510,540,2.42
+CLX,Lower Merion High School,490,540,2.81
+CMV,Philadelphia Regl High School,520,570,2.34
+CNH,Murrell Dobbins Voc-Tech,470,490,2.74
+COO,Franklin Learning Center,540,560,3.09
+CPH,South Phila High School,560,470,2.168677686
+CQV,Father Judge High School,450,550,3.25925
+CRV,E Stroudsburg Area High School,500,570,3.362741935
+CSG,Roman Catholic High School,610,660,2.244222222
+CTK,Roman Catholic High School,590,530,2.23
+CUG,Father Judge High School,580,530,3.22
+CVU,Cardinal O'Hara High School,550,650,3.555044248
+CWZ,Cardinal O'Hara High School,450,480,3.536906475
+CXZ,La Salle College High School,660,560,2.926880734
+CYZ,Archbishop Wood High School,650,670,3.877459016
+CZH,Bishop McDevitt High School,690,570,3.723168317
+DAV,Paul VI High School,510,510,2.5
+DBN,Penn Wood Senior High School,480,590,2.46
+DCN,West Phila Cath High School,500,530,0.37
+DDU,Bishop McDevitt High School,520,570,3.72
+DEQ,Cherry Hill High School West,450,450,3.486576577
+DFF,Northeast Cath High School,460,580,2.66
+DGL,Philadelphia High School Girls,560,550,2.385
+DHP,Stephen Decatur High School,510,770,1.84
+DIP,Triton Regional High School,770,590,1.69
+DJS,Foreign High School,560,620,3.13785124
+DKI,Emerson Jr-Sr High School,450,610,3.3
+DLB,Cardinal Dougherty High Schl,600,680,3.62984252
+DMT,Northeast Cath High School,500,540,2.65754386
+DNY,Foreign High School,700,560,3.13
+DOV,Archbishop Wood High School,640,780,3.872131148
+DPR,Ramapo Senior High School,430,500,2.3
+DQS,Northeast High School,580,540,2.6
+DRF,Penncrest High School,560,560,2.46
+DSG,Gunston School,530,590,3.077107438
+DTB,Northeast High School,570,570,2.58
+DUE,English High School,510,620,3.3
+DVZ,Central High School,520,790,3.495966387
+DWP,Neumann/Goretti HS,450,520,2.69
+DXI,Father Judge High School,580,650,3.218934426
+DYX,Bethlehem Catholic High School,670,600,3.728403361
+DZE,Bishop Walsh Middle-High Sch,630,690,3.7
+EAW,Father Judge High School,650,540,3.21
+EBK,La Salle College High School,480,780,2.92
+ECL,Archbishop Wood High School,560,470,3.87
+EDP,Holy Ghost Preparatory School,540,690,3.041848739
+EEK,Paul VI High School,520,450,2.5
+EFF,Interboro High School,620,630,3
+EGX,Pennsauken High School,370,490,2.42
+EHZ,Bishop McDevitt High School,740,530,3.72
+EIF,Atlantic City High School,600,610,3.777603306
+EJF,Absegami High School,770,750,3.992442748
+EKH,Washington Twp High School,590,550,1.06
+ELA,Paul VI High School,540,530,2.49
+EMJ,West Perry High School,620,520,0.72
+ENP,Bishop Shanahan High School,590,780,3.706046512
+EOU,Lower Moreland High School,600,530,2.791632653
+EPC,Christian Brothers Academy,630,690,3.450546875
+EQU,Northeast Cath High School,620,660,2.650714286
+ERF,Merion Mercy Academy,490,510,2.78
+ESH,Hanover Area Jr-Sr High School,580,590,3.07
+ETQ,Hunterdon Central High School,450,460,3.030661157
+EUD,Olney High School,500,490,2.55
+EVC,Hanover Senior High School,590,570,3.07
+EWF,Cardinal O'Hara High School,610,650,3.52
+EXD,Frankford High School,690,670,3.1
+EYH,Edison-Fareira High School,340,490,3.35
+EZX,Archbishop Wood High School,570,730,3.86979021
+FAP,Archbishop Wood High School,640,690,3.863507463
+FBF,St Augustine Prep School,690,610,2.153653846
+FCM,Archbishop Ryan High School,640,650,3.88
+FDH,Neshaminy High School,620,660,2.699210526
+FES,Council Rock North HS,470,510,3.42
+FFJ,Edison-Fareira High School,580,650,3.333740458
+FGW,St Peters Preparatory School,320,250,1.87
+FHP,Union Hill High School,450,470,1.58
+FIU,La Salle College High School,460,560,2.918441558
+FJR,Dulaney High School,620,800,3.368290598
+FKW,Triton Regional High School,480,450,1.62
+FLX,Elan Pinehenge School,450,450,3.301965812
+FMI,Valley Stream Cntrl High Sch,490,510,1.13
+FNM,Joseph C Wilson Magnet H S,490,600,2.994915254
+FOM,Arthur P Schalick High School,500,550,3.802252252
+FPQ,Philadelphia Regl High School,210,620,2.32
+FQZ,Monsignor Bonner High School,500,560,2.76
+FRH,West Windsor-Plainsboro SOUTH,680,640,0.32
+FSU,St Huberts H S for Girls,470,590,2.115514019
+FTV,St Josephs Preparatory School,640,710,2.021788618
+FUQ,Holy Ghost Preparatory School,480,640,3.041833333
+FVB,Harry S Truman High School,480,510,3.07
+FWP,Foreign High School,300,460,3.108461538
+FXP,Paul VI High School,570,530,2.48
+FYN,Cardinal Dougherty High Schl,750,230,3.629589041
+FZQ,Lansdale Catholic High School,650,610,2.85
+GAR,Florence Twp Mem High School,590,540,3.14
+GBI,Montgomery High School,430,550,2.759130435
+GCT,Roman Catholic High School,280,390,2.220377358
+GDW,Upper Dublin High School,580,550,1.325066667
+GEM,Plymouth-Whitemarsh H S,560,590,2.316666667
+GFX,Cardinal Dougherty High Schl,580,690,3.622786885
+GGT,Cardinal Dougherty High Schl,600,550,3.62
+GHQ,Father Judge High School,600,500,3.19
+GIG,Northeast Cath High School,430,400,2.65
+GJM,Old Bridge High School,430,450,2.57296
+GKK,La Salle College High School,450,510,2.91
+GLR,Northeast Cath High School,550,590,2.63
+GMJ,Monsignor Bonner High School,430,410,2.76
+GNT,Calvert Hall College High Sch,500,650,3.66
+GOM,Millburn High School,420,480,2.76
+GPA,Northeast High School,600,590,2.58
+GQJ,La Salle College High School,580,640,2.89352459
+GRY,Paulsboro High School,540,590,2.465954198
+GST,Coatesville Area Sr High Sch,570,560,3.439145299
+GTK,Brandywine High School,630,590,3.68
+GUS,Queens College,480,550,2.31
+GVP,Holy Cross High School,610,520,3.05
+GWI,William Nottingham High School,620,600,0.24
+GXJ,Archbishop Wood High School,460,560,3.81
+GYC,Foreign High School,580,580,3.105673077
+GZP,Bordentown Regl High School,620,550,3.69768595
+HAN,Camden Catholic High School,550,630,3.66
+HBZ,Unknown School,290,370,1.44
+HCG,Cinnaminson High School,600,610,3.45
+HDV,Father Judge High School,630,610,3.168130081
+HEV,Father Judge High School,470,550,3.146694915
+HFM,Cardinal Dougherty High Schl,700,640,3.62
+HGQ,Cardinal O'Hara High School,660,690,3.502047244
+HHM,Wm W Bodine H S Int Affair,490,420,0
+HIF,Parkville High School,460,480,2.55
+HJB,Nonnewaug High School,450,300,2.67
+HKZ,Upper Moreland High School,540,680,1.28
+HLE,Roxborough High School,450,410,2.213947368
+HMH,Bishop Eustace Prep School,550,670,3.725952381
+HNL,Saltus Grammar School,480,540,2.2
+HOZ,La Salle College High School,480,500,2.89
+HPF,Immaculata High School,610,560,3.012794118
+HQD,Philadelphia High School Girls,600,560,2.382113821
+HRJ,Cardinal Dougherty High Schl,450,430,3.59
+HSZ,Father Judge High School,510,550,3.142983871
+HTJ,St Marys International School,480,520,2.01
+HUL,Cardinal Gibbons High School,600,710,3.56
+HVR,Roman Catholic High School,480,450,2.22
+HWF,La Salle College High School,690,640,2.88
+HXF,Saint Josephs High School,540,490,2.2
+HYH,Murrell Dobbins Voc-Tech,470,540,2.71
+HZP,Conwell-Egan Catholic HS,500,480,3.42
+IAO,Atlantic City High School,600,670,3.77
+IBM,Bensalem High School,670,700,3.74
